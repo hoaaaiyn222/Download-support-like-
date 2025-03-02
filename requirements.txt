@@ -1,0 +1,5 @@
+python-telegram-bot
+pyTelegramBotAPI
+yt-dlp
+python-dotenv
+requests
